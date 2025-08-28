@@ -1,0 +1,33 @@
+Enter an integer k for which our Kempner sets are k-free: 3
+Enter a positive integer modulus b: 17
+Enter estimation parameters, or * for pre-computed parameters ([0.1746, 1.1797, 1.6294]): *
+Enter a threshold (e.g. 4.2) to determine printed output: 2.2
+Enter a root for the search space (e.g. [0, 1, 2]) [or * for the root [0]]: *
+Enter an upper bound for the size of allowable digit sets [or * to ignore]: *
+Enter a maximal number of deviations from a greedy search [or * to ignore]: *
+Searching for k-free sets mod b...
+
+[17, 2.39651, [0, 1, 3, 4]]
+[17, 2.56555, [0, 1, 3, 7, 8]]
+[17, 2.47973, [0, 1, 3, 7, 15]]
+[17, 2.48249, [0, 1, 3, 8, 12]]
+[17, 2.42473, [0, 1, 3, 11, 13]]
+[17, 2.40846, [0, 1, 3, 11, 15]]
+[17, 2.4134, [0, 1, 3, 12, 13]]
+[17, 2.26899, [0, 1, 4, 5]]
+[17, 2.47697, [0, 1, 4, 6, 10]]
+[17, 2.43403, [0, 1, 4, 6, 14]]
+[17, 2.36486, [0, 1, 4, 10, 12]]
+[17, 2.32227, [0, 1, 4, 12, 14]]
+[17, 2.45621, [0, 1, 5, 6, 8]]
+[17, 2.37143, [0, 1, 5, 6, 15]]
+[17, 2.42638, [0, 1, 5, 7, 8]]
+[17, 2.34178, [0, 1, 5, 7, 15]]
+[17, 2.2869, [0, 1, 6, 8, 14]]
+[17, 2.24528, [0, 1, 6, 10, 15]]
+[17, 2.30423, [0, 2, 3, 5, 9]]
+[17, 2.2569, [0, 2, 3, 5, 13]]
+[17, 2.25504, [0, 2, 3, 7, 8]]
+[17, 2.23699, [0, 2, 3, 7, 9]]
+
+Search completed in 0 hours, 0 minutes, and 0.007 seconds.  Enter a string to quit.

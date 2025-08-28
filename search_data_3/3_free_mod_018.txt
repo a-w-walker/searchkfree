@@ -1,0 +1,28 @@
+Enter an integer k for which our Kempner sets are k-free: 3
+Enter a positive integer modulus b: 18
+Enter estimation parameters, or * for pre-computed parameters ([0.1686, 1.1772, 1.6133]): *
+Enter a threshold (e.g. 4.2) to determine printed output: 2.1
+Enter a root for the search space (e.g. [0, 1, 2]) [or * for the root [0]]: *
+Enter an upper bound for the size of allowable digit sets [or * to ignore]: *
+Enter a maximal number of deviations from a greedy search [or * to ignore]: *
+Searching for k-free sets mod b...
+
+[18, 2.3674, [0, 1, 3, 4]]
+[18, 2.52557, [0, 1, 3, 7, 8]]
+[18, 2.42745, [0, 1, 3, 8, 14]]
+[18, 2.3608, [0, 1, 3, 13, 14]]
+[18, 2.16528, [0, 1, 3, 14]]
+[18, 2.15239, [0, 1, 3, 16]]
+[18, 2.24308, [0, 1, 4, 5]]
+[18, 2.20777, [0, 1, 4, 6]]
+[18, 2.1079, [0, 1, 4, 12]]
+[18, 2.41953, [0, 1, 5, 6, 8]]
+[18, 2.33113, [0, 1, 5, 6, 16]]
+[18, 2.39065, [0, 1, 5, 7, 8]]
+[18, 2.11125, [0, 1, 5, 8]]
+[18, 2.2343, [0, 1, 5, 11, 16]]
+[18, 2.10327, [0, 1, 11, 12, 14]]
+[18, 2.22427, [0, 2, 3, 7, 8]]
+[18, 2.16124, [0, 2, 3, 7, 13]]
+
+Search completed in 0 hours, 0 minutes, and 0.008 seconds.  Enter a string to quit.

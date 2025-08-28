@@ -1,0 +1,12 @@
+Enter an integer k for which our Kempner sets are k-free: 3
+Enter a positive integer modulus b: 4
+Enter estimation parameters, or * for pre-computed parameters ([0, 1, 0]): *
+Enter a threshold (e.g. 4.2) to determine printed output: 0.0
+Enter a root for the search space (e.g. [0, 1, 2]) [or * for the root [0]]: *
+Enter an upper bound for the size of allowable digit sets [or * to ignore]: *
+Enter a maximal number of deviations from a greedy search [or * to ignore]: *
+Searching for k-free sets mod b...
+
+[4, 2.48889, [0, 1]]
+
+Search completed in 0 hours, 0 minutes, and 0 seconds.  Enter a string to quit.
